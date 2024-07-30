@@ -156,5 +156,7 @@ Edit Task: Click the "Edit" button next to a task to enter editing mode. Update 
 Delete Task: Click the "Delete" button next to a task to remove it from the list.
 Toggle Completion: Click on a task to mark it as completed or incomplete.
 Filter Tasks: Use the filter buttons to view all tasks, only completed tasks, or only incomplete tasks.
+THank you 
+
 
 
