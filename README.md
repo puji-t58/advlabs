@@ -144,7 +144,7 @@ Start the development server:
 
 bash
 Copy code
-npm start
+npm start 
 Open your browser and navigate to:
 
 arduino
